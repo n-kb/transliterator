@@ -6,3 +6,4 @@ Transliteration tools are common for Russian to English, but very little exists 
 
 * Remove duplicates in output
 * Add languages: pl, lt, se
+* Add support for Belarussian, Ukrainian
