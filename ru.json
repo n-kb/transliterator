@@ -1,0 +1,1110 @@
+{
+    "А": {
+        "ru": "А",
+        "en": {
+            "translit": [
+                "a"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "a"
+            ]
+        },
+        "de": {
+            "translit": [
+                "a"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "A"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "A"
+            ]
+        },
+        "es": {
+            "translit": [
+                "a"
+            ]
+        }
+    },
+    "Б": {
+        "ru": "Б",
+        "en": {
+            "translit": [
+                "b"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "b"
+            ]
+        },
+        "de": {
+            "translit": [
+                "b"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "B"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "B"
+            ]
+        },
+        "es": {
+            "translit": [
+                "b"
+            ]
+        }
+    },
+    "В": {
+        "ru": "В",
+        "en": {
+            "translit": [
+                "v"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "v"
+            ]
+        },
+        "de": {
+            "translit": [
+                "w"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "V"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "V"
+            ]
+        },
+        "es": {
+            "translit": [
+                "v"
+            ]
+        }
+    },
+    "Г": {
+        "ru": "Г",
+        "en": {
+            "translit": [
+                "g"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "g"
+            ],
+            "before" : {
+                "letters" : ["Е", "И"],
+                "translit": "gu"
+            }
+        },
+        "de": {
+            "translit": [
+                "g",
+                "h"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "G"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "G"
+            ]
+        },
+        "es": {
+            "translit": [
+                "g"
+            ],
+            "before" : {
+                "letters" : ["Е", "И"],
+                "translit": "gu"
+            }
+        }
+    },
+    "Д": {
+        "ru": "Д",
+        "en": {
+            "translit": [
+                "d"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "d"
+            ]
+        },
+        "de": {
+            "translit": [
+                "d"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "D"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "D"
+            ]
+        },
+        "es": {
+            "translit": [
+                "d"
+            ]
+        }
+    },
+    "Е": {
+        "ru": "Е",
+        "en": {
+            "translit": [
+                "e"
+            ],
+            "before" : {
+                "letters" : ["Ь", "Ъ", "А", "Ё", "Ю"],
+                "translit": "ye"
+            },
+            "beginning" : {
+                "translit": "ye"
+            }
+        },
+        "fr": {
+            "translit": [
+                "e"
+            ],
+            "before" : {
+                "letters" : ["Ь", "Ъ", "А", "Ё", "Ю"],
+                "translit": "ie"
+            },
+            "beginning" : {
+                "translit": "ie"
+            }
+        },
+        "de": {
+            "translit": [
+                "e"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "E"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "E"
+            ]
+        },
+        "es": {
+            "translit": [
+                "e"
+            ],
+            "before" : {
+                "letters" : ["Ь", "Ъ", "А", "Ё", "Ю"],
+                "translit": "ie"
+            },
+            "beginning" : {
+                "translit": "ie"
+            }
+        }
+    },
+    "Ё": {
+        "ru": "Ё",
+        "en": {
+            "translit": [
+                "e"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "e"
+            ]
+        },
+        "de": {
+            "translit": [
+                "jo"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "JO"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "Ë"
+            ]
+        },
+        "es": {
+            "translit": [
+                "yo"
+            ],
+            "after" : {
+                "letters" : ["ж", "ч", "ш", "щ"],
+                "translit": "o"
+            }
+        }
+    },
+    "Ж": {
+        "ru": "Ж",
+        "en": {
+            "translit": [
+                "zh"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "j"
+            ]
+        },
+        "de": {
+            "translit": [
+                "sch"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "Ž"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "Ž"
+            ]
+        },
+        "es": {
+            "translit": [
+                "zh"
+            ]
+        }
+    },
+    "З": {
+        "ru": "З",
+        "en": {
+            "translit": [
+                "z"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "z"
+            ]
+        },
+        "de": {
+            "translit": [
+                "s"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "Z"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "Z"
+            ]
+        },
+        "es": {
+            "translit": [
+                "z"
+            ]
+        }
+    },
+    "И": {
+        "ru": "И",
+        "en": {
+            "translit": [
+                "i"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "i"
+            ]
+        },
+        "de": {
+            "translit": [
+                "i"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "I"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "I"
+            ]
+        },
+        "es": {
+            "translit": [
+                "i"
+            ]
+        }
+    },
+    "Й": {
+        "ru": "Й",
+        "en": {
+            "translit": [
+                "i"
+            ],
+            "after" : {
+                "letters": ["И", "Ы"],
+                "translit" : ""
+            }
+        },
+        "fr": {
+            "translit": [
+                "i"
+            ],
+            "after" : {
+                "letters": ["И", "Ы"],
+                "translit" : ""
+            }
+        },
+        "de": {
+            "translit": [
+                "i"
+            ],
+            "after" : {
+                "letters": ["И", "Ы"],
+                "translit" : ""
+            }
+        },
+        "cs": {
+            "translit": [
+                "J"
+            ],
+            "after" : {
+                "letters": ["И", "Ы"],
+                "translit" : ""
+            }
+        },
+        "lv": {
+            "translit": [
+                "J"
+            ],
+            "after" : {
+                "letters": ["И", "Ы"],
+                "translit" : ""
+            }
+        },
+        "es": {
+            "translit": [
+                "i"
+            ],
+            "after" : {
+                "letters": ["И", "Ы"],
+                "translit" : ""
+            }
+        }
+    },
+    "К": {
+        "ru": "К",
+        "en": {
+            "translit": [
+                "k"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "k"
+            ]
+        },
+        "de": {
+            "translit": [
+                "k"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "K"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "K"
+            ]
+        },
+        "es": {
+            "translit": [
+                "k"
+            ]
+        }
+    },
+    "Л": {
+        "ru": "Л",
+        "en": {
+            "translit": [
+                "l"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "l"
+            ]
+        },
+        "de": {
+            "translit": [
+                "l"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "L"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "L"
+            ]
+        },
+        "es": {
+            "translit": [
+                "l"
+            ]
+        }
+    },
+    "М": {
+        "ru": "М",
+        "en": {
+            "translit": [
+                "m"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "m"
+            ]
+        },
+        "de": {
+            "translit": [
+                "m"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "M"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "M"
+            ]
+        },
+        "es": {
+            "translit": [
+                "m"
+            ]
+        }
+    },
+    "Н": {
+        "ru": "Н",
+        "en": {
+            "translit": [
+                "n"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "n"
+            ],
+            "word_ending": {
+                "after" : {
+                    "letters": ["И", "Ы"],
+                    "translit" : "ne"
+                }
+            }
+        },
+        "de": {
+            "translit": [
+                "n"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "N"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "N"
+            ]
+        },
+        "es": {
+            "translit": [
+                "n"
+            ]
+        }
+    },
+    "О": {
+        "ru": "О",
+        "en": {
+            "translit": [
+                "o"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "o"
+            ]
+        },
+        "de": {
+            "translit": [
+                "o"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "O"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "O"
+            ]
+        },
+        "es": {
+            "translit": [
+                "o"
+            ]
+        }
+    },
+    "П": {
+        "ru": "П",
+        "en": {
+            "translit": [
+                "p"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "p"
+            ]
+        },
+        "de": {
+            "translit": [
+                "p"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "P"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "P"
+            ]
+        },
+        "es": {
+            "translit": [
+                "p"
+            ]
+        }
+    },
+    "Р": {
+        "ru": "Р",
+        "en": {
+            "translit": [
+                "r"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "r"
+            ]
+        },
+        "de": {
+            "translit": [
+                "r"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "R"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "R"
+            ]
+        },
+        "es": {
+            "translit": [
+                "r"
+            ]
+        }
+    },
+    "С": {
+        "ru": "С",
+        "en": {
+            "translit": [
+                "s"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "s"
+            ],
+            "between_vowels" : {
+                "translit" : "ss"
+            }
+        },
+        "de": {
+            "translit": [
+                "s"
+            ],
+            "between_vowels" : {
+                "translit" : "ss"
+            }
+        },
+        "cs": {
+            "translit": [
+                "S"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "S"
+            ]
+        },
+        "es": {
+            "translit": [
+                "s"
+            ]
+        }
+    },
+    "Т": {
+        "ru": "Т",
+        "en": {
+            "translit": [
+                "t"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "t"
+            ]
+        },
+        "de": {
+            "translit": [
+                "t"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "T"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "T"
+            ]
+        },
+        "es": {
+            "translit": [
+                "t"
+            ]
+        }
+    },
+    "У": {
+        "ru": "У",
+        "en": {
+            "translit": [
+                "u"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "ou"
+            ]
+        },
+        "de": {
+            "translit": [
+                "u"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "U"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "U"
+            ]
+        },
+        "es": {
+            "translit": [
+                "u"
+            ]
+        }
+    },
+    "Ф": {
+        "ru": "Ф",
+        "en": {
+            "translit": [
+                "f"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "f"
+            ]
+        },
+        "de": {
+            "translit": [
+                "f"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "F"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "F"
+            ]
+        },
+        "es": {
+            "translit": [
+                "f"
+            ]
+        }
+    },
+    "Х": {
+        "ru": "Х",
+        "en": {
+            "translit": [
+                "kh"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "kh"
+            ]
+        },
+        "de": {
+            "translit": [
+                "ch"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "CH"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "X"
+            ]
+        },
+        "es": {
+            "translit": [
+                "j"
+            ]
+        }
+    },
+    "Ц": {
+        "ru": "Ц",
+        "en": {
+            "translit": [
+                "ts"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "ts"
+            ]
+        },
+        "de": {
+            "translit": [
+                "z"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "C"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "C"
+            ]
+        },
+        "es": {
+            "translit": [
+                "ts"
+            ]
+        }
+    },
+    "Ч": {
+        "ru": "Ч",
+        "en": {
+            "translit": [
+                "ch"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "tch"
+            ]
+        },
+        "de": {
+            "translit": [
+                "tsch"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "Č"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "Č"
+            ]
+        },
+        "es": {
+            "translit": [
+                "ch"
+            ]
+        }
+    },
+    "Ш": {
+        "ru": "Ш",
+        "en": {
+            "translit": [
+                "sh"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "ch"
+            ]
+        },
+        "de": {
+            "translit": [
+                "sch"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "Š"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "Š"
+            ]
+        },
+        "es": {
+            "translit": [
+                "sh"
+            ]
+        }
+    },
+    "Щ": {
+        "ru": "Щ",
+        "en": {
+            "translit": [
+                "shch"
+            ]
+        },
+        "fr": {
+            "translit": [
+                "chtch"
+            ]
+        },
+        "de": {
+            "translit": [
+                "schtsch"
+            ]
+        },
+        "cs": {
+            "translit": [
+                "ŠČ"
+            ]
+        },
+        "lv": {
+            "translit": [
+                "ŠČ"
+            ]
+        },
+        "es": {
+            "translit": [
+                "sch"
+            ]
+        }
+    },
+    "Ъ": {
+        "ru": "Ъ",
+        "en": {
+            "translit": [
+                ""
+            ]
+        },
+        "fr": {
+            "translit": [
+                ""
+            ]
+        },
+        "de": {
+            "translit": [
+                ""
+            ]
+        },
+        "cs": {
+            "translit": [
+                ""
+            ]
+        },
+        "lv": {
+            "translit": [
+                ""
+            ]
+        },
+        "es": {
+            "translit": [
+                ""
+            ]
+        }
+    },
+    "Ю": {
+        "ru": "Ю",
+        "en": {
+            "translit": [
+                "yu"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "u"
+            }
+        },
+        "fr": {
+            "translit": [
+                "iou"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "ou"
+            }
+        },
+        "de": {
+            "translit": [
+                "ju"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "u"
+            }
+        },
+        "cs": {
+            "translit": [
+                "ju"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "u"
+            }
+        },
+        "lv": {
+            "translit": [
+                "ju"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "u"
+            }
+        },
+        "es": {
+            "translit": [
+                "yu"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "u"
+            }
+        }
+    },
+    "Я": {
+        "ru": "Я",
+        "en": {
+            "translit": [
+                "ia"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "a"
+            }
+        },
+        "fr": {
+            "translit": [
+                "ia"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "a"
+            }
+        },
+        "de": {
+            "translit": [
+                "ja"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "a"
+            }
+        },
+        "cs": {
+            "translit": [
+                "JA"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "a"
+            }
+        },
+        "lv": {
+            "translit": [
+                "JA"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "a"
+            }
+        },
+        "es": {
+            "translit": [
+                "ya"
+            ],
+            "after" : {
+                "letters": ["И", "Й"],
+                "translit" : "a"
+            }
+        }
+    }
+}
